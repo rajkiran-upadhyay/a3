@@ -1,0 +1,94 @@
+.container {
+
+    height: 800px;
+    width: 1200px;
+    /* background-color: aquamarine; */
+    margin: left;
+    border: 1px solid red;
+    position: relative;
+
+
+}
+
+.one {
+
+    height: 80px;
+    width: 130px;
+    position: absolute;
+    margin: 300px 250px 0px;
+
+    border-radius: 10px;
+    border: 5px solid rgb(233, 200, 15);
+
+    background-image: url("1.jpg");
+    background-repeat: no;
+    background-size: cover;
+
+
+}
+
+.two {
+
+    height: 80px;
+    width: 130px;
+    border-radius: 10px;
+    position: absolute;
+    margin: 300px 790px 0px;
+    border: 6px inset rgb(11, 139, 11);
+
+    background-image: url("2.jpg");
+    background-repeat: no;
+    background-size: cover;
+
+
+
+}
+
+.three {
+    position: absolute;
+    height: 170px;
+    width: 170px;
+
+    margin: 270px 500px 0px;
+    border-radius: 100%;
+    border: 5px solid rgb(199, 12, 21);
+
+    background-image: url("3.jpg");
+    background-repeat: no;
+    background-size: cover;
+
+
+
+}
+
+.four {
+    height: 80px;
+    width: 130px;
+    position: absolute;
+    margin: 130px 530px 0px;
+
+    border-radius: 10px;
+    border: 5px solid rgb(9, 66, 7);
+
+
+    background-image: url("4.jpg");
+    background-repeat: no;
+    background-size: cover;
+
+}
+
+.five {
+    height: 80px;
+    width: 130px;
+    position: absolute;
+    margin: 520px 530px 0px;
+
+  
+    border-radius: 10px;
+    border: 5px inset rgb(221, 28, 118);
+
+    background-image: url("2.jpg");
+    background-repeat: no;
+    background-size: cover;
+
+}
